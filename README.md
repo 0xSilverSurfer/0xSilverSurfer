@@ -2,6 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%3E_+0xSilverSurfer+%7C+Red+Team+Operator;%3E_+Network+%26+Cyber+Security+Student+%40+ISET'Com;%3E_+SecOps+Automation+%26+Offensive+Python;%3E_+CCNA+SRWE+%2B+AI+Security+Certified" alt="Typing SVG" />
 
+<br/><br/>
+
+<!-- Animated terminal window: ASCII render of my avatar + a typewriter boot sequence -->
+<img src="./terminal-banner.svg" alt="terminal boot animation" width="620"/>
+
 <br/>
 
 # 🪙 Ouertani Ghaith
